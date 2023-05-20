@@ -26,7 +26,7 @@ public class AddingNumber {
 		for(int i=5;i<=10;i++) {
 			c=c*i;//factorial
 		}
-		System.out.println(c);
+		System.out.println("the factorial of the given number is"+c);
 	}
 
 }
